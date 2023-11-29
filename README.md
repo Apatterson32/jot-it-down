@@ -14,6 +14,7 @@ A simple note-taking application that allows users to write and save notes. This
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [License](#license)
+- [Deployment](#deployment)
 - [Contact](#contact)
 
 ## Description
@@ -61,8 +62,19 @@ As a small business owner, I want to be able to write and save notes so that I c
 This project is licensed under the [MIT License](LICENSE).
 
 
+## Deployment
+
+<details>
+ <summary>Deployment</summary>
+ <br>
+    [Live Deployment Link]()
+
+    
+    ![Screenshot 2023-11-29 141715](https://github.com/Apatterson32/jot-it-down/assets/135552416/e6376428-75b5-4fbb-b8f9-0c3fe25de55e)
+</details>
+
 ## Contact
 
 - [GitHub](https://github.com/Apatterson32)
-- [Email:](mailto:pattersonal10@gmail.com)
+- [Email](mailto:pattersonal10@gmail.com)
 
