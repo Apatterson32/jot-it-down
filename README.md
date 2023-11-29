@@ -68,13 +68,13 @@ This project is licensed under the [MIT License](LICENSE).
 <details>
  <summary>Deployment</summary>
  <br>
-    [Live Deployment Link]()
+    [Live Deployment Link](https://note-taking-backend-express-c7d27764942c.herokuapp.com/)
 </details>
 
 
 ## Screenshot
 
-- ![Screenshot 2023-11-29 141715](https://github.com/Apatterson32/jot-it-down/assets/135552416/e6376428-75b5-4fbb-b8f9-0c3fe25de55e)
+![Screenshot 2023-11-29 141715](https://github.com/Apatterson32/jot-it-down/assets/135552416/e6376428-75b5-4fbb-b8f9-0c3fe25de55e)
 
 ## Contact
 
