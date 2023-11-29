@@ -15,6 +15,7 @@ A simple note-taking application that allows users to write and save notes. This
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Deployment](#deployment)
+- [Screenshot](#screenshot)
 - [Contact](#contact)
 
 ## Description
@@ -68,10 +69,12 @@ This project is licensed under the [MIT License](LICENSE).
  <summary>Deployment</summary>
  <br>
     [Live Deployment Link]()
-
-    
-    ![Screenshot 2023-11-29 141715](https://github.com/Apatterson32/jot-it-down/assets/135552416/e6376428-75b5-4fbb-b8f9-0c3fe25de55e)
 </details>
+
+
+## Screenshot
+
+- ![Screenshot 2023-11-29 141715](https://github.com/Apatterson32/jot-it-down/assets/135552416/e6376428-75b5-4fbb-b8f9-0c3fe25de55e)
 
 ## Contact
 
