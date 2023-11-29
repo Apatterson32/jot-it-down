@@ -37,7 +37,6 @@ As a small business owner, I want to be able to write and save notes so that I c
    ```bash
    git clone https://github.com/Apatterson32/note-taker.git
 
-
 2. Install dependencies `npm install`
 
 
@@ -64,6 +63,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- GitHub: [Apatterson32](https://github.com/Apatterson32)
-- Email: [pattersonal10@gmail.com](mailto:pattersonal10@gmail.com)
+- [GitHub](https://github.com/Apatterson32)
+- [Email:](mailto:pattersonal10@gmail.com)
 
